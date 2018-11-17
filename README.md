@@ -1,6 +1,6 @@
 ## ProgrammingAssignment4
 
-Test
+Before running any R program, run first the file run_me_first.R to load the data into memory.
 
 # Problem 1
 Q: Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? Using the base plotting system, make a plot showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
